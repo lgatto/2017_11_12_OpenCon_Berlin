@@ -63,12 +63,13 @@ more open and ethical research and publication environment.
 
 ## Continuing the fight
 
-- So much work, so little time.
+- So much work, so little time...
+- Approach prominent academics directly.
 - Evidence to the UK Parliament Science and Technology Committee
   inquiry on [Research
   Integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/research-integrity-17-19/).
 - Update our webpage, tranlsations, regular blog posts, ....
-- Bring the discussion about DORA to the Regent House?
+- Bring the discussion about DORA to the Regent House (University of Camrbidge)?
 
 
 ## ECR struggle
@@ -80,8 +81,8 @@ more open and ethical research and publication environment.
 <hr />
 
 - There are too many fights to pick - **pick your battles**
-- There are multiple ways to fight any battle, and often several are needed in parallel.
-- Official path and community efforts.
+- There are multiple ways to fight any battle, and often several are
+  needed in parallel: official procedure and open community efforts.
 
 
 ##
