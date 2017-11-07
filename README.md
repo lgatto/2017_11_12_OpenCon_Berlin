@@ -12,14 +12,12 @@ their inspiring stories, from Canada to Nepal, of sparking
 change. We'll also find out where they found support, what challenges
 they faced, and their words of advice for participants.
 
-### Presentation
+### Abstract
 
-- 5 minutes
-
-- What is Bullied Into Bad Science
-- Open research is better research
-- Some backgroud about the campaign
-- Different experiences on being bullied
-- Many battles to fight, many ways to fight a battle
-- So far: success? only the beginning, hopefully!
-
+The #BulliedIntoBadScience campaign was initiated after several
+attempts to influence publishing practices at the University of
+Cambridge and in the UK. However, it seems at times impossible for
+academics, early stage and more senior, to change a broken system that
+is, sadly, just accepted by most. I'll share some of the background of
+the #BulliedIntoBadScience campaign and reflect on early career
+researchers' challenges in fighting for a more ethical environment.
