@@ -33,7 +33,6 @@ any purpose, even commercially.
 - OpenConCam: OpenCon Cambridge group - http://www.openconcam.org/
 - **Corina Logan** - @LoganCorina - http://corinalogan.com/
 
-
 <img src="./DSC_5386_cropped.JPG" alt="Corina and Laurent", width="60%" align="right">
 
 ## [http://bulliedintobadscience.org/](http://BulliedIntoBadScience.org/)
@@ -44,6 +43,13 @@ any purpose, even commercially.
 
 - ERC: **135 have signed it**
 - Other: **71 support it**
+
+## [http://bulliedintobadscience.org/](http://BulliedIntoBadScience.org/)
+
+> I have been constantly harassed by superiors to modify data in order
+  to provide better agreement with known experimental values in order
+  to make the paper look better for publishing at prestigious
+  journals.
 
 ## Background
 
