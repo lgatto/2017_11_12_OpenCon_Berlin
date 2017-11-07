@@ -34,7 +34,7 @@ any purpose, even commercially.
 - **Corina Logan** - @LoganCorina - http://corinalogan.com/
 
 
-<img src="./DSC_5386_cropped.JPG" alt="Corina and Laurent", width="80%" align="right">
+<img src="./DSC_5386_cropped.JPG" alt="Corina and Laurent", width="60%" align="right">
 
 ## [http://bulliedintobadscience.org/](http://BulliedIntoBadScience.org/)
 
