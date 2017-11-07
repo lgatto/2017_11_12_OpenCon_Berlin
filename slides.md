@@ -16,7 +16,7 @@ https://lgatto.github.io           University of Cambridge
 @lgatt0
 ```
 
-Link to slides: TODO
+Link to slides: http://bit.ly/20171112OpenCon
 
 ## Licence
 
@@ -54,8 +54,8 @@ any purpose, even commercially.
 
 ## ECR struggle
 
-- And my day job? Why do ECR need to fight for a better, open and more
-  trustworthy research?
+- And my day job? Why do ECR need to fight for a **better**, open and
+  more **trustworthy** research?
 - What will be the impact on being an open activist on my career?
 
 ## Success?

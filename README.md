@@ -1,6 +1,7 @@
 # OpenCon 2017
 
 - [Programme](http://www.opencon2017.org/program)
+- Slides: http://bit.ly/20171112OpenCon
 
 ### Next-generation initiatives advancing open
 
