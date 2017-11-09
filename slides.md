@@ -54,6 +54,7 @@ more open and ethical research and publication environment.
 
 ## Success?
 
+- Corina just won a Shuttleworth Foundation Flash Grant for #BulliedIntoBadScience! WIN
 - Numbers?
 - Feedback - Yes
 - In Cambridge - FAIL. (**But that doesn't matter, as long as others
@@ -62,7 +63,6 @@ more open and ethical research and publication environment.
   on God’s earth"
 
 ## Continuing the fight
-
 - So much work, so little time...
 - Approach prominent academics directly.
 - Evidence to the UK Parliament Science and Technology Committee
