@@ -71,7 +71,7 @@ more open and ethical research and publication environment.
 
 ## ECR struggle
 
-- And my day job? Why do *ECR* need to fight for **better**, **open**
+- And my **day job**? Why do *ECR* need to fight for **better**, **open**
   and more **trustworthy** research?  
 - What will be the impact on being an open activist on my career?
   **Good, IMHO**
