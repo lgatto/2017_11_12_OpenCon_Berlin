@@ -1,7 +1,9 @@
 # OpenCon 2017
 
 - [Programme](http://www.opencon2017.org/program)
-- Slides: http://bit.ly/20171112OpenCon
+- Slides (html): http://bit.ly/20171112OpenCon
+- Slides (pdf): https://github.com/lgatto/2017_11_12_OpenCon_Berlin/blob/master/slides.pdf
+- Slides (pdf): [direct download](https://github.com/lgatto/2017_11_12_OpenCon_Berlin/raw/master/slides.pdf)
 
 ### Next-generation initiatives advancing open
 
