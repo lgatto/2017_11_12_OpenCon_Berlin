@@ -8,7 +8,7 @@ output:
     ratio: 16x10
 ---
 
-## I won't be #BulliedIntoBadScience!
+## I won't be **#BulliedIntoBadScience**!
 
 ```
 Laurent Gatto                      Computational Proteomics Unit
@@ -43,49 +43,47 @@ The Bullied Into Bad Science campaign is an initiative by early career
 researchers (ECRs) for early career researchers who aim for a fairer,
 more open and ethical research and publication environment.
 
-**135 ECR have signed it** - **71 non-ECRs support it**
-
 ## Background
 
-- Elsevier/JISC negociations (mid 2016) - FAIL
-- Discussions at the University of Cambridge (end 2016) - mixed results
-- Informal discussions with pro VC (start 2017) - FAIL
+- Elsevier/JISC negotiations (mid 2016) - **FAIL**
+- Discussions at the University of Cambridge (end 2016) - *mixed results*
+- Informal discussions with pro VC (start 2017) - **FAIL**
 - Going public with **#BulliedIntoBadScience** (June 2017)
 
 ## Success?
 
-- Corina just won a Shuttleworth Foundation Flash Grant for #BulliedIntoBadScience! WIN
-- Numbers?
-- Feedback - Yes
-- In Cambridge - FAIL. (**But that doesn't matter, as long as others
-  benefits. It never was meant to be a Cambridge thing anyway.**)
-- ... declaration on Research Assessment (DORA) in Cambridge: "No way
-  on God’s earth"
+- Corina just won a Shuttleworth Foundation Flash Grant for **#BulliedIntoBadScience**! **WIN**
+- Numbers: **135 ECRs have signed it** - **71 non-ECRs support it** - *?*
+- Feedback - **WIN** (all good, no bad)
+- In Cambridge - **FAIL**. (But that doesn't matter, as long as others
+  benefit. It never was meant to be a Cambridge thing anyway) ...
+- ... Declaration on Research Assessment (DORA) in Cambridge: "No way
+  on God’s earth" - **FAIL**
 
 ## Continuing the fight
-- So much work, so little time...
 - Approach prominent academics directly.
 - Evidence to the UK Parliament Science and Technology Committee
   inquiry on [Research
   Integrity](https://www.parliament.uk/business/committees/committees-a-z/commons-select/science-and-technology-committee/inquiries/parliament-2017/research-integrity-17-19/).
-- Update our webpage, tranlsations, regular blog posts, ....
-- Bring the discussion about DORA to the Regent House (University of Camrbidge)?
+- Update our web page, translations, regular blog posts, ....
+- Bring the discussion about DORA to the Regent House (University of Cambridge)?
 
 
 ## ECR struggle
 
-- And my day job? Why do *ECR* need to fight for a **better**, open and
-  more **trustworthy** research?
-- What will be the impact on being an open activist on my career? **Good, IMHO**
-
-<hr />
-
-- There are too many fights to pick - **pick your battles**
+- And my day job? Why do *ECR* need to fight for **better**, **open**
+  and more **trustworthy** research?  
+- What will be the impact on being an open activist on my career?
+  **Good, IMHO**
+- So much work, so little time.There are too many fights to pick - **pick your battles**
 - There are multiple ways to fight any battle, and often several are
-  needed in parallel: official procedure and open community efforts.
-
+  needed in parallel: **official** procedure and **community** efforts.
+- [**No researcher is too junior to fix science**](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)
 
 ##
 
-- **Thank you!**
-- Link to slides: http://bit.ly/20171112OpenCon
+Link to slides: http://bit.ly/20171112OpenCon
+
+
+
+**Thank you!**
