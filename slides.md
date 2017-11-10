@@ -11,9 +11,7 @@ output:
 ## I won't be **#BulliedIntoBadScience**!
 
 ```
-Laurent Gatto                      Computational Proteomics Unit
-https://lgatto.github.io           University of Cambridge
-@lgatt0
+Laurent Gatto             https://lgatto.github.io             @lgatt0
 ```
 
 Link to slides: http://bit.ly/20171112OpenCon
@@ -22,8 +20,8 @@ These slides are available under a creative common
 [CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
 free to share (copy and redistribute the material in any medium or
 format) and adapt (remix, transform, and build upon the material) for
-any purpose, even commercially.
-<img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">
+any purpose, even commercially
+<img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">.
 
 ## Credit
 
@@ -31,6 +29,7 @@ any purpose, even commercially.
 - **Corina Logan** - [\@LoganCorina](https://twitter.com/LoganCorina) - http://corinalogan.com/
 
 <img src="./DSC_5386_cropped.JPG" alt="Corina and Laurent", width="60%" align="right">
+
 
 ## [http://BulliedIntoBadScience.org/](http://BulliedIntoBadScience.org/)
 
@@ -52,7 +51,7 @@ more open and ethical research and publication environment.
 
 ## Success?
 
-- Corina just won a Shuttleworth Foundation Flash Grant for **#BulliedIntoBadScience**! **WIN**
+- Corina just won a Shuttleworth Flash Grant for **#BulliedIntoBadScience**! **WIN**
 - Numbers: **135 ECRs have signed it** - **71 non-ECRs support it** - *?*
 - Feedback - **WIN** (all good, no bad)
 - In Cambridge - **FAIL**. (But that doesn't matter, as long as others
@@ -80,10 +79,17 @@ more open and ethical research and publication environment.
   needed in parallel: **official** procedure and **community** efforts.
 - [**No researcher is too junior to fix science**](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)!
 
-##
+## I won't be **#BulliedIntoBadScience**!
+
+```
+                    Thank you for listening!
+```
 
 Link to slides: http://bit.ly/20171112OpenCon
 
-
-
-**Thank you!**
+These slides are available under a creative common
+[CC-BY license](http://creativecommons.org/licenses/by/4.0/). You are
+free to share (copy and redistribute the material in any medium or
+format) and adapt (remix, transform, and build upon the material) for
+any purpose, even commercially
+<img src="/home/lg390/Pictures/cc1.jpg" alt="cc1" height="30px">.
