@@ -73,12 +73,12 @@ more open and ethical research and publication environment.
 
 - And my **day job**? Why do *ECR* need to fight for **better**, **open**
   and more **trustworthy** research?  
-- What will be the impact on being an open activist on my career?
-  **Good, IMHO**
-- So much work, so little time.There are too many fights to pick - **pick your battles**
+- What's the impact on being an open activist on my **career**?
+  **Good, IMHO**!
+- So much work, so little time. There are too many fights to pick - **pick the battles that matter most to you**.
 - There are multiple ways to fight any battle, and often several are
   needed in parallel: **official** procedure and **community** efforts.
-- [**No researcher is too junior to fix science**](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)
+- [**No researcher is too junior to fix science**](https://www.nature.com/news/no-researcher-is-too-junior-to-fix-science-1.21928)!
 
 ##
 
